@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank Loans related MAK QA APIs "
   contactDetails:
-     name: "Anil Kumar M - QA Lead"
+     name: "Anil Kumar M - QA Technical Lead"
     email: "anilkumarm@eazybank.com"
   onCallSupport:
     - (785) 545-6565
